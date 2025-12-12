@@ -1,0 +1,181 @@
+# Walchand College of Engineering, Sangli
+## Official Notices
+
+---
+
+### Notice No: WCE/2024/001
+### Date: January 10, 2024
+
+## Subject: Commencement of Even Semester Classes
+
+This is to inform all students that the even semester (Semester II/IV/VI/VIII) classes for the academic year 2023-2024 will commence from **January 15, 2024 (Monday)**.
+
+### Important Instructions:
+1. All students must complete their registration before January 12, 2024.
+2. Fee payment deadline: January 14, 2024.
+3. Late registration will attract a fine of ₹500.
+4. Students with pending backlogs must clear their fees before registration.
+
+**Dr. A.B. Smith**
+*Dean of Academics*
+
+---
+
+### Notice No: WCE/2024/002
+### Date: January 15, 2024
+
+## Subject: Library Timings for Semester II
+
+The Central Library will follow the following timings for Semester II:
+
+| Day | Timing |
+|-----|--------|
+| Monday - Friday | 8:00 AM - 8:00 PM |
+| Saturday | 8:00 AM - 5:00 PM |
+| Sunday | 10:00 AM - 4:00 PM |
+
+### Additional Information:
+- Reading room is open 24/7 during examination periods.
+- Book borrowing limit: 4 books for 14 days.
+- Digital library access available through college WiFi.
+
+**Librarian, Central Library**
+
+---
+
+### Notice No: WCE/2024/003
+### Date: January 20, 2024
+
+## Subject: Technical Festival "Technovanza 2024"
+
+The annual technical festival **Technovanza 2024** will be held from **March 15-17, 2024**.
+
+### Events:
+1. Coding Competition
+2. Robotics Challenge
+3. Project Exhibition
+4. Quiz Competition
+5. Paper Presentation
+
+### Registration:
+- Online registration opens: February 1, 2024
+- Registration fee: ₹200 per participant
+- Team events: Maximum 4 members per team
+
+For more information, contact: technovanza@walchandsangli.ac.in
+
+**Student Council, WCE**
+
+---
+
+### Notice No: WCE/2024/004
+### Date: February 1, 2024
+
+## Subject: Mid-Semester Examination Schedule
+
+The Mid-Semester Examinations for Semester II will be conducted from **February 26, 2024 to March 2, 2024**.
+
+### General Instructions:
+1. Hall tickets will be available from February 20, 2024.
+2. Students must carry valid ID cards to the examination hall.
+3. Electronic devices are strictly prohibited.
+4. Report to examination hall 15 minutes before scheduled time.
+
+Detailed subject-wise schedule will be published on February 10, 2024.
+
+**Controller of Examinations**
+
+---
+
+### Notice No: WCE/2024/005
+### Date: February 5, 2024
+
+## Subject: Campus Placement Drive
+
+The following companies are visiting for campus recruitment:
+
+| Company | Date | Eligible Branches |
+|---------|------|-------------------|
+| TCS | Feb 15, 2024 | All Branches |
+| Infosys | Feb 20, 2024 | CS, IT, E&TC |
+| Cognizant | Feb 25, 2024 | CS, IT |
+| L&T Infotech | Mar 1, 2024 | All Branches |
+
+### Eligibility:
+- Minimum 60% aggregate marks
+- No active backlogs at the time of interview
+- Valid resume and passport-size photograph
+
+**Training and Placement Cell**
+
+---
+
+### Notice No: WCE/2024/006
+### Date: February 10, 2024
+
+## Subject: Workshop on Machine Learning with Python
+
+The Department of Computer Science and Engineering is organizing a **3-day workshop on Machine Learning with Python** from **February 28 to March 2, 2024**.
+
+### Topics Covered:
+- Day 1: Python for Data Science, NumPy, Pandas
+- Day 2: Supervised Learning (Regression, Classification)
+- Day 3: Unsupervised Learning and Neural Networks
+
+### Details:
+- Venue: Computer Lab 1, Main Building
+- Time: 9:00 AM - 5:00 PM
+- Registration Fee: ₹300 for students, ₹500 for others
+- Certification provided upon completion
+
+Register at: https://forms.gle/workshop-ml-2024
+
+**Dr. C.D. Johnson**
+*Head, Department of CSE*
+
+---
+
+### Notice No: WCE/2024/007
+### Date: February 15, 2024
+
+## Subject: Sports Day 2024
+
+The Annual Sports Day will be celebrated on **March 10, 2024**.
+
+### Events:
+- Track Events: 100m, 200m, 400m, 800m, Relay
+- Field Events: Long Jump, High Jump, Shot Put
+- Team Sports: Cricket, Football, Basketball, Volleyball
+
+### Schedule:
+- Flag Hoisting: 8:00 AM
+- March Past: 8:30 AM
+- Events: 9:00 AM onwards
+- Prize Distribution: 4:00 PM
+
+All students are encouraged to participate.
+
+**Director of Physical Education**
+
+---
+
+### Notice No: WCE/2024/008
+### Date: March 1, 2024
+
+## Subject: End-Semester Examination Schedule
+
+The End-Semester Examinations for Semester II will be conducted from **May 6, 2024 to May 25, 2024**.
+
+### Important Dates:
+- Hall ticket distribution: April 25, 2024
+- Practical examinations: April 22 - May 4, 2024
+- Theory examinations: May 6 - May 25, 2024
+- Result declaration: June 15, 2024 (tentative)
+
+Detailed schedule will be published on April 1, 2024.
+
+**Controller of Examinations**
+
+---
+
+*For the latest notices, visit: www.walchandsangli.ac.in/notices*

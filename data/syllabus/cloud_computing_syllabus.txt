@@ -1,0 +1,190 @@
+# Cloud Computing Syllabus
+## Third Year Computer Engineering - Semester II
+
+### Course Code: CSE303
+### Credits: 4 (3-0-2)
+### Total Hours: 45 Lecture + 30 Practical
+
+---
+
+## Course Objectives
+1. Understand cloud computing concepts and architecture
+2. Learn virtualization technologies and containerization
+3. Explore major cloud service models (IaaS, PaaS, SaaS)
+4. Gain hands-on experience with AWS and Azure services
+5. Understand cloud security and best practices
+
+---
+
+## Unit 1: Cloud Computing Fundamentals (8 Hours)
+
+### 1.1 Introduction to Cloud Computing
+- Definition and characteristics of cloud computing
+- Cloud computing history and evolution
+- Benefits and challenges of cloud adoption
+- Cloud deployment models (Public, Private, Hybrid, Community)
+
+### 1.2 Cloud Service Models
+- Infrastructure as a Service (IaaS)
+- Platform as a Service (PaaS)
+- Software as a Service (SaaS)
+- Comparison and use cases
+
+### 1.3 Cloud Economics
+- Total Cost of Ownership (TCO)
+- Pay-per-use pricing models
+- Reserved vs on-demand instances
+- Cost optimization strategies
+
+---
+
+## Unit 2: Virtualization Technologies (9 Hours)
+
+### 2.1 Virtualization Fundamentals
+- Types of virtualization (Server, Storage, Network)
+- Hypervisors (Type 1 and Type 2)
+- VMware, Hyper-V, KVM overview
+
+### 2.2 Containerization
+- Containers vs Virtual Machines
+- Docker fundamentals
+- Container images and registries
+- Docker Compose for multi-container applications
+
+### 2.3 Container Orchestration
+- Introduction to Kubernetes
+- Pods, Services, Deployments
+- Scaling and load balancing
+- Container security best practices
+
+---
+
+## Unit 3: Cloud Services - AWS (10 Hours)
+
+### 3.1 AWS Fundamentals
+- AWS Global Infrastructure
+- Regions and Availability Zones
+- AWS Management Console and CLI
+
+### 3.2 Compute Services
+- Amazon EC2 (instance types, AMIs)
+- Auto Scaling and Load Balancing
+- AWS Lambda (serverless computing)
+- Elastic Beanstalk
+
+### 3.3 Storage and Database Services
+- Amazon S3 (storage classes, lifecycle policies)
+- Amazon EBS and EFS
+- Amazon RDS (relational databases)
+- Amazon DynamoDB (NoSQL)
+
+### 3.4 Networking Services
+- Amazon VPC
+- Subnets, Route Tables, Internet Gateway
+- Security Groups and NACLs
+- AWS CloudFront (CDN)
+
+---
+
+## Unit 4: Cloud Services - Azure (9 Hours)
+
+### 4.1 Azure Fundamentals
+- Azure Portal and CLI
+- Azure Resource Manager
+- Azure regions and availability
+
+### 4.2 Azure Compute Services
+- Azure Virtual Machines
+- Azure App Service
+- Azure Functions
+- Azure Kubernetes Service (AKS)
+
+### 4.3 Azure Storage and Data Services
+- Azure Blob Storage
+- Azure SQL Database
+- Azure Cosmos DB
+- Azure Data Lake
+
+### 4.4 Azure Networking
+- Virtual Networks
+- Load Balancer and Application Gateway
+- Azure DNS
+- ExpressRoute
+
+---
+
+## Unit 5: Cloud Security and Best Practices (9 Hours)
+
+### 5.1 Cloud Security Fundamentals
+- Shared responsibility model
+- Identity and Access Management (IAM)
+- Multi-factor authentication
+- Encryption at rest and in transit
+
+### 5.2 Security Services
+- AWS Security Hub, GuardDuty
+- Azure Security Center
+- Network security and firewall rules
+- Compliance and certifications
+
+### 5.3 Cloud Architecture Patterns
+- High availability design
+- Disaster recovery strategies
+- Microservices architecture
+- Well-Architected Framework
+
+### 5.4 DevOps and CI/CD
+- Infrastructure as Code (Terraform, CloudFormation)
+- CI/CD pipelines
+- Monitoring and logging
+- Cost management and optimization
+
+---
+
+## Practical List (30 Hours)
+
+1. AWS account setup and IAM configuration
+2. Launching and managing EC2 instances
+3. S3 bucket creation and static website hosting
+4. Docker containerization of applications
+5. Kubernetes deployment on cloud
+6. Azure Virtual Machine deployment
+7. Serverless function deployment (Lambda/Azure Functions)
+8. VPC design and implementation
+9. Mini project: Deploy a 3-tier application on cloud
+
+---
+
+## Textbooks
+
+1. **Cloud Computing: Concepts, Technology & Architecture** - Thomas Erl
+2. **Amazon Web Services in Action** - Andreas Wittig, Michael Wittig
+3. **Exam AZ-900: Microsoft Azure Fundamentals** - Microsoft Learning
+
+## Reference Books
+
+1. Architecting the Cloud - Michael J. Kavis
+2. Docker Deep Dive - Nigel Poulton
+3. Kubernetes Up and Running - Kelsey Hightower
+
+---
+
+## Evaluation Scheme
+
+| Component | Weightage |
+|-----------|-----------|
+| Continuous Assessment | 20% |
+| Mid-Semester Exam | 20% |
+| End-Semester Exam | 40% |
+| Practical/Lab | 20% |
+
+---
+
+## Course Outcomes
+
+After completing this course, students will be able to:
+1. Explain cloud computing concepts, service models, and deployment models
+2. Configure and manage virtualization and containerization technologies
+3. Deploy and manage applications on AWS cloud platform
+4. Utilize Azure cloud services for various application requirements
+5. Implement cloud security best practices and design patterns

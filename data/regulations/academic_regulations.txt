@@ -1,0 +1,192 @@
+# Walchand College of Engineering, Sangli
+## Academic Regulations for Bachelor of Engineering (B.E.)
+### Academic Year 2023-2024
+
+---
+
+## 1. Admission and Registration
+
+### 1.1 Eligibility
+- Candidates must have passed 10+2 or equivalent examination with Physics, Chemistry, and Mathematics.
+- Minimum 50% aggregate marks (45% for reserved categories).
+- Valid JEE Main score or state-level entrance examination score.
+
+### 1.2 Registration
+- All students must register at the beginning of each semester.
+- Late registration attracts a penalty as per university norms.
+- Students failing to register within the stipulated time may be deregistered.
+
+### 1.3 Document Verification
+- Original documents must be submitted during admission.
+- Provisional admission is granted pending document verification.
+- Failure to produce original documents leads to cancellation of admission.
+
+---
+
+## 2. Attendance Requirements
+
+### 2.1 Minimum Attendance
+- Minimum 75% attendance is mandatory for all courses.
+- Attendance is calculated separately for theory and practical components.
+- Medical leave with valid documentation may be considered for attendance shortage.
+
+### 2.2 Attendance Shortage
+- Students with attendance below 75% but above 65% may be allowed to appear for exams with the permission of the HOD.
+- Attendance below 65% leads to debarment from end-semester examinations.
+- Debarred students must re-register for the course in the next semester.
+
+### 2.3 Special Provisions
+- Students representing the college in sports/cultural events get duty leave.
+- Industrial visits and academic tours are counted as attendance.
+- Maximum of 10 days medical leave can be adjusted per semester.
+
+---
+
+## 3. Examination Rules
+
+### 3.1 Continuous Assessment
+- Continuous assessment constitutes 20% of the total marks.
+- Components: Class tests (10%), Assignments (5%), Quizzes (5%).
+- Minimum 50% attendance in continuous assessment activities is required.
+
+### 3.2 Mid-Semester Examination
+- Conducted after 7-8 weeks of instruction.
+- Duration: 1.5 hours
+- Weightage: 20% of total marks
+- Syllabus: First 50% of the course content
+
+### 3.3 End-Semester Examination
+- Conducted at the end of each semester.
+- Duration: 3 hours
+- Weightage: 40% of total marks
+- Covers entire syllabus
+
+### 3.4 Practical Examination
+- Conducted at the end of each semester.
+- Weightage: 20% of total marks
+- Components: Lab work (10%), Practical exam (10%)
+
+### 3.5 Passing Criteria
+- Minimum 40% in theory (combined CA + MSE + ESE)
+- Minimum 40% in practical component
+- Minimum 40% overall in the course
+
+---
+
+## 4. Grading System
+
+### 4.1 Grade Points
+
+| Grade | Marks Range | Grade Points |
+|-------|-------------|--------------|
+| O | 90-100 | 10 |
+| A+ | 80-89 | 9 |
+| A | 70-79 | 8 |
+| B+ | 60-69 | 7 |
+| B | 55-59 | 6 |
+| C | 50-54 | 5 |
+| P | 40-49 | 4 |
+| F | Below 40 | 0 |
+
+### 4.2 CGPA Calculation
+CGPA = Σ(Credit × Grade Point) / Σ(Credit)
+
+### 4.3 Percentage Equivalent
+Percentage = (CGPA - 0.5) × 10
+
+---
+
+## 5. Backlog and Reappearing
+
+### 5.1 Supplementary Examination
+- Students failing in any course can appear in supplementary exams.
+- Supplementary exams are conducted once per semester.
+- Maximum 4 attempts per course (including regular attempt).
+
+### 5.2 Improvement
+- Students can improve grades by reappearing in end-semester exams.
+- Only ESE component can be improved.
+- Best of the two attempts is considered.
+
+### 5.3 Academic Probation
+- Students with CGPA below 5.0 are placed on academic probation.
+- Probation students must clear backlogs within one year.
+- Failure to clear probation leads to year-back.
+
+---
+
+## 6. Leave and Break of Study
+
+### 6.1 Semester Break
+- A student can take a break for one or more semesters.
+- Prior approval from the Dean is required.
+- Maximum break period: 2 years
+
+### 6.2 Year Back
+- Students with more than 6 backlogs cannot be promoted.
+- Year back students must repeat the entire year.
+- Fees applicable as per current rates.
+
+---
+
+## 7. Anti-Ragging Policy
+
+### 7.1 Definition
+Ragging includes any act that causes physical or psychological harm to a student.
+
+### 7.2 Penalties
+- First offense: Suspension for one semester
+- Second offense: Expulsion from the institution
+- Criminal cases may be filed as per law
+
+### 7.3 Reporting
+- Anti-ragging helpline: 1800-XXX-XXXX
+- Complaints can be filed with the Anti-Ragging Committee
+- All complaints are kept confidential
+
+---
+
+## 8. Code of Conduct
+
+### 8.1 Academic Integrity
+- Plagiarism is strictly prohibited.
+- Copying in exams leads to cancellation of the paper.
+- Repeat offenders may be expelled.
+
+### 8.2 Dress Code
+- Students must wear ID cards at all times.
+- Formal dress is required during presentations and vivas.
+- Laboratory dress code must be followed.
+
+### 8.3 Use of Mobile Phones
+- Mobile phones must be switched off during classes.
+- Use of mobile phones in exams is considered malpractice.
+- Phones may be used in designated areas only.
+
+---
+
+## 9. Fee Structure
+
+### 9.1 Tuition Fee
+- Fee structure is as per government norms.
+- Fees are payable at the beginning of each semester.
+- Late payment attracts a fine of ₹50 per day.
+
+### 9.2 Refund Policy
+- Full refund if withdrawal within 7 days of admission.
+- 80% refund within 30 days.
+- No refund after 30 days.
+
+---
+
+## 10. Contact Information
+
+- Dean of Academics: dean.academics@walchandsangli.ac.in
+- Examination Cell: exams@walchandsangli.ac.in
+- Student Affairs: studentaffairs@walchandsangli.ac.in
+- Anti-Ragging Cell: antiragging@walchandsangli.ac.in
+
+---
+
+*Last Updated: August 2023*
+*These regulations are subject to change as per university/AICTE guidelines.*

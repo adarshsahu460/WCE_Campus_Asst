@@ -1,0 +1,175 @@
+# Data Science Syllabus
+## Third Year Computer Engineering - Semester II
+
+### Course Code: CSE302
+### Credits: 4 (3-0-2)
+### Total Hours: 45 Lecture + 30 Practical
+
+---
+
+## Course Objectives
+1. Understand the data science lifecycle and methodologies
+2. Learn data collection, cleaning, and preprocessing techniques
+3. Master exploratory data analysis and visualization
+4. Apply statistical methods for data analysis
+5. Develop skills in communicating insights through data storytelling
+
+---
+
+## Unit 1: Introduction to Data Science (8 Hours)
+
+### 1.1 Data Science Overview
+- Definition and scope of data science
+- Data science vs data analytics vs machine learning
+- Data science lifecycle (CRISP-DM)
+- Roles in data science teams
+
+### 1.2 Data Types and Sources
+- Structured vs unstructured data
+- Data sources (databases, APIs, web scraping)
+- Big data characteristics (5 Vs)
+- Data quality dimensions
+
+### 1.3 Tools and Technologies
+- Python for data science (NumPy, Pandas)
+- Jupyter notebooks
+- SQL basics for data extraction
+- Introduction to cloud platforms for data science
+
+---
+
+## Unit 2: Data Collection and Preprocessing (9 Hours)
+
+### 2.1 Data Collection
+- Database querying with SQL
+- Web scraping with BeautifulSoup and Selenium
+- API integration (REST APIs)
+- Data import from various formats (CSV, JSON, Excel)
+
+### 2.2 Data Cleaning
+- Handling missing values (imputation techniques)
+- Outlier detection and treatment
+- Data type conversions
+- Dealing with duplicate records
+
+### 2.3 Data Transformation
+- Feature engineering
+- Normalization and standardization
+- Encoding categorical variables
+- Feature extraction from text and dates
+
+---
+
+## Unit 3: Exploratory Data Analysis (10 Hours)
+
+### 3.1 Univariate Analysis
+- Measures of central tendency (mean, median, mode)
+- Measures of dispersion (variance, standard deviation)
+- Distribution analysis
+- Identifying skewness and kurtosis
+
+### 3.2 Bivariate Analysis
+- Correlation analysis
+- Cross-tabulation
+- Scatter plots and relationship analysis
+- ANOVA for group comparisons
+
+### 3.3 Multivariate Analysis
+- Correlation matrices
+- Pair plots
+- Dimensionality considerations
+- Feature relationships
+
+---
+
+## Unit 4: Statistical Methods for Data Science (9 Hours)
+
+### 4.1 Probability Fundamentals
+- Probability distributions
+- Normal distribution and Central Limit Theorem
+- Sampling techniques
+- Confidence intervals
+
+### 4.2 Hypothesis Testing
+- Null and alternative hypotheses
+- t-tests (one-sample, two-sample, paired)
+- Chi-square tests
+- p-values and significance levels
+
+### 4.3 Regression Analysis
+- Simple linear regression
+- Multiple regression
+- Model evaluation (R-squared, adjusted R-squared)
+- Assumptions and diagnostics
+
+---
+
+## Unit 5: Data Visualization and Communication (9 Hours)
+
+### 5.1 Visualization Principles
+- Visual perception and cognition
+- Choosing the right chart type
+- Design principles for effective visualization
+- Common visualization mistakes
+
+### 5.2 Visualization Tools
+- Matplotlib fundamentals
+- Seaborn for statistical visualization
+- Plotly for interactive charts
+- Dashboards with Streamlit/Dash
+
+### 5.3 Data Storytelling
+- Structuring data narratives
+- Creating compelling presentations
+- Business context and recommendations
+- Ethics in data presentation
+
+---
+
+## Practical List (30 Hours)
+
+1. Python basics for data science (NumPy, Pandas)
+2. Data collection from APIs and web scraping
+3. Data cleaning and preprocessing pipeline
+4. Exploratory data analysis on real datasets
+5. Statistical analysis and hypothesis testing
+6. Visualization with Matplotlib and Seaborn
+7. Interactive visualizations with Plotly
+8. Building a simple dashboard
+9. Mini project: End-to-end data analysis project
+
+---
+
+## Textbooks
+
+1. **Python for Data Analysis** - Wes McKinney
+2. **Data Science from Scratch** - Joel Grus
+3. **Practical Statistics for Data Scientists** - Peter Bruce, Andrew Bruce
+
+## Reference Books
+
+1. Storytelling with Data - Cole Nussbaumer Knaflic
+2. The Data Science Handbook - Field Cady
+3. Think Stats - Allen B. Downey
+
+---
+
+## Evaluation Scheme
+
+| Component | Weightage |
+|-----------|-----------|
+| Continuous Assessment | 20% |
+| Mid-Semester Exam | 20% |
+| End-Semester Exam | 40% |
+| Practical/Lab | 20% |
+
+---
+
+## Course Outcomes
+
+After completing this course, students will be able to:
+1. Explain the data science lifecycle and methodologies
+2. Collect and preprocess data from various sources
+3. Perform exploratory data analysis to derive insights
+4. Apply statistical methods for hypothesis testing and inference
+5. Create effective visualizations and communicate findings

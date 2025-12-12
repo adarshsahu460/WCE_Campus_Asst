@@ -1,0 +1,90 @@
+{
+  "name": "wce-campus-assistant-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP Server providing agentic tools for WCE Campus Assistant",
+  "tools": [
+    {
+      "name": "read_timetable_file",
+      "description": "Reads the class timetable for a specific day or date. Returns the schedule with classes for each hour/period.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "day": {
+            "type": "string",
+            "description": "Day of the week (e.g., 'Monday', 'Tuesday') or 'today', 'tomorrow'",
+            "enum": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday", "today", "tomorrow"]
+          },
+          "date": {
+            "type": "string",
+            "description": "Specific date in YYYY-MM-DD format (optional, overrides day)"
+          }
+        }
+      }
+    },
+    {
+      "name": "notify_upcoming_exams",
+      "description": "Scans exam timetable and documents to find exams coming within the specified number of days. Returns subjects, dates, and times.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "days_ahead": {
+            "type": "integer",
+            "description": "Number of days ahead to check for exams",
+            "default": 7,
+            "minimum": 1,
+            "maximum": 90
+          }
+        }
+      }
+    },
+    {
+      "name": "generate_study_plan",
+      "description": "Generates a day-wise study plan based on the list of subjects, exam date, and available study hours per day.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "subjects": {
+            "type": "array",
+            "items": {"type": "string"},
+            "description": "List of subjects to study"
+          },
+          "exam_date": {
+            "type": "string",
+            "description": "Exam date in YYYY-MM-DD format"
+          },
+          "hours_per_day": {
+            "type": "integer",
+            "description": "Available study hours per day",
+            "default": 6,
+            "minimum": 1,
+            "maximum": 16
+          }
+        },
+        "required": ["subjects", "exam_date"]
+      }
+    },
+    {
+      "name": "browse_local_files",
+      "description": "Browses local files and directories to list available documents, notices, and PDFs.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "path": {
+            "type": "string",
+            "description": "Path to browse (relative to data directory or absolute)"
+          },
+          "file_type": {
+            "type": "string",
+            "description": "Filter by file extension",
+            "enum": ["pdf", "csv", "txt", "md", "all"]
+          },
+          "category": {
+            "type": "string",
+            "description": "Document category to browse",
+            "enum": ["timetables", "notices", "syllabus", "exams", "regulations", "all"]
+          }
+        }
+      }
+    }
+  ]
+}

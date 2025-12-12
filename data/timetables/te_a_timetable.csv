@@ -1,0 +1,9 @@
+TE-A Timetable - Semester II 2024
+
+Day,Period 1 (09:00-10:00),Period 2 (10:00-11:00),Period 3 (11:15-12:15),Period 4 (12:15-01:15),Period 5 (02:00-03:00),Period 6 (03:00-04:00)
+Monday,Machine Learning (Room 301),Data Science (Room 302),Cloud Computing (Lab 1),LUNCH,Software Engineering (Room 303),Mini Project (Lab 2)
+Tuesday,Data Science (Room 302),Machine Learning (Room 301),Computer Networks (Room 304),LUNCH,Cloud Computing Lab (Lab 1),Cloud Computing Lab (Lab 1)
+Wednesday,Software Engineering (Room 303),Computer Networks (Room 304),Machine Learning (Room 301),LUNCH,Data Science Lab (Lab 3),Data Science Lab (Lab 3)
+Thursday,Computer Networks (Room 304),Software Engineering (Room 303),Data Science (Room 302),LUNCH,Machine Learning Lab (Lab 2),Machine Learning Lab (Lab 2)
+Friday,Cloud Computing (Lab 1),Mini Project (Lab 2),Software Engineering (Room 303),LUNCH,Computer Networks Lab (Lab 4),Library
+Saturday,Guest Lecture (Auditorium),-,-,-,-,-

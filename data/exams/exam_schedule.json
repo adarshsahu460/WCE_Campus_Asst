@@ -1,0 +1,77 @@
+{
+  "semester": "May 2024",
+  "exams": [
+    {
+      "subject": "Machine Learning",
+      "date": "2024-05-10",
+      "time": "10:00 AM - 01:00 PM",
+      "class": "TE",
+      "venue": "Main Building Hall 1",
+      "type": "End Semester",
+      "syllabus_units": ["Unit 1: Introduction to ML", "Unit 2: Supervised Learning", "Unit 3: Unsupervised Learning", "Unit 4: Neural Networks", "Unit 5: Deep Learning Basics"]
+    },
+    {
+      "subject": "Data Science",
+      "date": "2024-05-13",
+      "time": "10:00 AM - 01:00 PM",
+      "class": "TE",
+      "venue": "Main Building Hall 1",
+      "type": "End Semester",
+      "syllabus_units": ["Unit 1: Data Collection", "Unit 2: Data Preprocessing", "Unit 3: Exploratory Analysis", "Unit 4: Statistical Methods", "Unit 5: Visualization"]
+    },
+    {
+      "subject": "Computer Networks",
+      "date": "2024-05-16",
+      "time": "10:00 AM - 01:00 PM",
+      "class": "TE",
+      "venue": "Main Building Hall 2",
+      "type": "End Semester",
+      "syllabus_units": ["Unit 1: Network Fundamentals", "Unit 2: Data Link Layer", "Unit 3: Network Layer", "Unit 4: Transport Layer", "Unit 5: Application Layer"]
+    },
+    {
+      "subject": "Cloud Computing",
+      "date": "2024-05-19",
+      "time": "10:00 AM - 01:00 PM",
+      "class": "TE",
+      "venue": "Lab Building Hall 1",
+      "type": "End Semester",
+      "syllabus_units": ["Unit 1: Cloud Basics", "Unit 2: Virtualization", "Unit 3: Cloud Services (IaaS, PaaS, SaaS)", "Unit 4: AWS/Azure", "Unit 5: Cloud Security"]
+    },
+    {
+      "subject": "Software Engineering",
+      "date": "2024-05-22",
+      "time": "10:00 AM - 01:00 PM",
+      "class": "TE",
+      "venue": "Main Building Hall 1",
+      "type": "End Semester",
+      "syllabus_units": ["Unit 1: SDLC Models", "Unit 2: Requirements Engineering", "Unit 3: Design Principles", "Unit 4: Testing", "Unit 5: Project Management"]
+    },
+    {
+      "subject": "Deep Learning",
+      "date": "2024-05-11",
+      "time": "10:00 AM - 01:00 PM",
+      "class": "BE",
+      "venue": "Main Building Hall 2",
+      "type": "End Semester",
+      "syllabus_units": ["Unit 1: Neural Network Architectures", "Unit 2: CNNs", "Unit 3: RNNs and LSTMs", "Unit 4: Transformers", "Unit 5: GANs"]
+    },
+    {
+      "subject": "Big Data Analytics",
+      "date": "2024-05-14",
+      "time": "10:00 AM - 01:00 PM",
+      "class": "BE",
+      "venue": "Main Building Hall 2",
+      "type": "End Semester",
+      "syllabus_units": ["Unit 1: Big Data Ecosystem", "Unit 2: Hadoop", "Unit 3: Spark", "Unit 4: NoSQL Databases", "Unit 5: Stream Processing"]
+    },
+    {
+      "subject": "Blockchain Technology",
+      "date": "2024-05-17",
+      "time": "10:00 AM - 01:00 PM",
+      "class": "BE",
+      "venue": "Lab Building Hall 1",
+      "type": "End Semester",
+      "syllabus_units": ["Unit 1: Blockchain Fundamentals", "Unit 2: Cryptography", "Unit 3: Consensus Mechanisms", "Unit 4: Smart Contracts", "Unit 5: Applications"]
+    }
+  ]
+}

@@ -53,8 +53,9 @@ A production-ready AI-powered Campus Assistant Chatbot for Walchand College of E
 
 3. **Start all services**
    ```bash
-   docker-compose up -d
+   docker-compose up -d --build
    ```
+   > **Note:** First run takes 2-5 minutes to download the embedding model (~1.3GB). Monitor with `docker-compose logs -f backend`
 
 4. **Seed the database**
    ```bash
@@ -81,7 +82,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 # Start ChromaDB (in separate terminal)
-docker run -p 8000:8000 chromadb/chroma
+docker run -p 8000:8000 chromadb/chroma:0.6.3
 
 # Start backend API
 uvicorn api.main:app --host 0.0.0.0 --port 8001 --reload
